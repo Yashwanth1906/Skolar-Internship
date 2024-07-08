@@ -1,0 +1,31 @@
+A virtual environment is an isolated Python environment that allows you to manage dependencies for different projects separately. It ensures that the libraries and packages required for one project do not interfere with those of another.
+
+Importance in Data Science:
+
+Dependency Management: Each project can have its own versions of libraries without conflicts.
+Reproducibility: Ensures that the project runs consistently across different environments.
+Isolation: Prevents system-wide changes and maintains a clean workspace.
+
+
+Setting Up a Virtual Environment
+
+Create a Virtual Environment:
+
+python -m venv ml_env
+
+Activate the Virtual Environment:
+
+On Windows:
+
+ml_env\Scripts\activate
+
+Install a Library (e.g., NumPy):
+
+pip install numpy
+
+Write a Python Script:
+
+import numpy as np
+
+matrix = np.array([[1, 2], [3, 4]])
+print("Matrix:\n", matrix)

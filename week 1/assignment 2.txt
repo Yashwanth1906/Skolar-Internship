@@ -1,0 +1,20 @@
+Why Choose VS Code for Python Development?
+Visual Studio Code (VS Code) is a versatile Integrated Development Environment (IDE) ideal for Python development, especially in data science and machine learning.
+
+Key Features and Benefits
+Extensibility:
+
+Supports numerous extensions like Python, Jupyter, and Pylance, enhancing development capabilities.
+Integrated Terminal:
+
+Run scripts and commands directly within the IDE, streamlining the workflow.
+IntelliSense and Code Completion:
+
+Provides smart code completions, reducing errors and speeding up coding.
+Debugging Tools:
+
+Powerful debugging features like breakpoints and an interactive console aid in developing and debugging complex models.
+Jupyter Notebook Integration:
+
+Edit and run Jupyter notebooks directly in VS Code, essential for data science workflows.
+Simple Python Program in VS Code
